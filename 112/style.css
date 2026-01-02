@@ -1,0 +1,31 @@
+styles.css
+body{
+    font-family:Arial;
+    background-color:rgba(255, 192, 203, 0.848) ;
+    color:black ;
+    font-size: large ;
+    text-align:center ;
+}
+h1{
+    color:rgb(106, 102, 102);
+
+}
+#article-1{
+    background-color: rgb(217, 205, 211);
+}
+
+#article-1{
+    text-align: center;
+}
+#profilePicture{
+    height: 300px;
+    width: 300px;
+    border-radius:100px ;
+}
+footer{
+    text-align: center;
+}   
+li{
+    justify-content: center;
+}
+
